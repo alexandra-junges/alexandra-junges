@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**alexandra-junges/alexandra-junges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me:
 
-Here are some ideas to get you started:
+- I'm enthusiastic about creating visually appealing and user-friendly web experiences.
+- My journey combines a strong design foundation with coding skills to build interactive and engaging websites.
+- I've been working with digital art since *2017*.
+- I hold a *bachelor's* degree in Graphic Design.
+- I love being creative and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### GitHub Stats 📊
+
+![AlexandraDJ GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandra-junges&count_private=true;&include_all_commits=true&hide_title=true&hide=issues&=true&show_icons=true)
+
+#### Follow me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandra-junges/)](https://www.linkedin.com/in/alexandra-junges/)
+[![Behance Badge](https://img.shields.io/badge/Behance-0054F7?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/yourusername)](https://www.behance.net/aleexandra)
+
+Thanks for visiting my GitHub profile! 😄
